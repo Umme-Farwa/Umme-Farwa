@@ -2,7 +2,7 @@
 **I am Umm e Farwa**
 
 
-- 🔭 I’m currently working on Multi Layer Networks Link Predictions
+- 🔭 Currently working on MultiLayer Networks Link Predictions
 - 🌱 Studying MS Data Science at University of Messina
 - 👯 I am Eager to Learn About the Data, and AI.
 - 🤔 I’m looking for help with Execuing my business ideas into life
