@@ -1,50 +1,90 @@
-# Hi, I'm Umm E Farwa
 
-**Data Scientist | AI & Machine Learning | Python | SQL | NLP | Graph ML**
+<h1 align="center">Hi, I'm Umm E Farwa 👋</h1>
 
-MSc Data Science graduate from the University of Messina, Italy.
+<h3 align="center">
+Data Scientist | AI & Machine Learning | Python & SQL
+</h3>
 
-I work on applying Data Science, Machine Learning, and AI methodologies to solve problems across different domains, from data analysis and predictive modeling to natural language processing and graph-based learning.
+<p align="center">
+MSc Data Science | University of Messina, Italy
+</p>
 
-### Technical Skills
+---
 
-- **Programming:** Python, SQL
-- **Data Analytics:** Pandas, NumPy, EDA, Statistical Analysis, Data Visualization
-- **Machine Learning:** Scikit-learn, Classification, Regression, Clustering, Model Evaluation
-- **Deep Learning:** PyTorch, Neural Networks, Attention Mechanisms
-- **NLP & AI:** Hugging Face, Transformers, Text Analytics, Sentiment Analysis
-- **Graph ML:** GNNs, GATs, Multiplex Networks, Link Prediction
-- **Business Intelligence:** Power BI, Tableau
+### 👩‍💻 About Me
 
-### Selected Projects
+- 🎓 MSc in Data Science from the University of Messina, Italy
+- 🔬 Research experience in Graph Neural Networks, Graph Attention Networks, and Link Prediction
+- 🤖 Working with Machine Learning, Deep Learning, NLP, and AI methodologies
+- 📊 Skilled in Python, SQL, Data Analysis, and Data Visualization
+- 🌍 Open to Data Science/AI jobs across Europe and remote opportunities
+- 💼 Available for freelance Data Science, Python, SQL, and ML projects
 
-**Graph Neural Networks for Multiplex Link Prediction**
+---
 
-Master's thesis exploring attention-based graph learning for predicting links in multilayer networks.
+### 🛠️ My Skills & Tools
 
-**Carbon-Aware Neural Network Optimization**
+**Programming & Data Analytics**
 
-Genetic algorithm-based optimization of neural networks, exploring model performance and computational sustainability.
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+</p>
 
-**Large-Scale Twitter Network Analysis**
+**Machine Learning & Deep Learning**
 
-Network analysis involving large-scale graph data and computational techniques.
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter"/>
+</p>
 
-**ESG & Financial Performance Dashboard**
+**Tools & Development**
 
-Power BI dashboard exploring business performance, sustainability indicators, and data-driven insights.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
 
-### Currently Exploring
+**Additional Expertise**
 
-- Applied Machine Learning and AI solutions
-- Advanced Data Analytics and predictive modeling
-- NLP and Graph Machine Learning
-- Research-driven approaches to real-world problems
+Machine Learning • Statistical Analysis • NLP • Transformers • GNNs • GATs • Graph ML • Data Visualization • Power BI • Tableau
 
-### Open to Opportunities
+---
 
-I'm interested in Data Scientist, Data Analyst, Machine Learning Engineer, AI Engineer, and AI/ML Research opportunities across Europe, including remote positions.
+### 🚀 My Projects & Research
 
-I am also available for freelance Data Science, Python, SQL, analytics, and AI/ML projects.
+**🧠 Graph Neural Networks for Multiplex Link Prediction**
+- Master's thesis involving attention-based graph neural networks
+- Graph representation learning and link prediction
 
-**Connect with me:** [LinkedIn] https://www.linkedin.com/in/ummefarwasyeda/ | [Email] ummsyeda101@gmail.com
+**🌱 Carbon-Aware Neural Network Optimization**
+- Genetic algorithm-based neural network optimization
+- Exploring model accuracy and computational sustainability
+
+**📈 Large-Scale Twitter Network Analysis**
+- Analyzing large-scale graph datasets
+- Network structure and interaction analysis
+
+**📊 ESG & Financial Performance Dashboard**
+- Power BI dashboard for ESG and financial analytics
+- KPI visualization and data-driven reporting
+
+---
+
+### 🎯 Professional Interests
+
+- Applied Artificial Intelligence & Machine Learning
+- Data Science & Predictive Analytics
+- Natural Language Processing
+- Graph Machine Learning
+- AI Research & Development
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to full-time Data Science/AI opportunities, research collaborations, and freelance projects.
+
+**LinkedIn:** https://www.linkedin.com/in/ummefarwasyeda/
+
+**Email:** ummsyeda101@gmail.com
